@@ -1,5 +1,5 @@
 # GRIP
-##Prediction using Supervised ML - Simple Linear Regression
+## Prediction using Supervised ML - Simple Linear Regression
 
 GRIP Internship at The Sparks Foundation
 Name - Sankalp Agrawal
