@@ -1,4 +1,4 @@
-# GRIP
+# GRIP - Task 1
 ## Prediction using Supervised ML - Simple Linear Regression
 
 GRIP Internship at The Sparks Foundation
